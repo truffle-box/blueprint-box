@@ -14,4 +14,4 @@ After adding your libraries and code:
 
 4. Customize the box configuration file (`box-config.json`) if necessary.
 
-See [the Truffle Box section of our documentation](http://truffleframework.com/) for more info.
+See [the Truffle Box section of our documentation](https://truffleframework.com/docs/truffle/getting-started/truffle-boxes) for more info.
