@@ -1,4 +1,4 @@
 module.exports = {
-  // See <http://truffleframework.com/docs/advanced/configuration>
+  // See <https://trufflesuite.com/docs/truffle/reference/configuration.html>
   // to customize your Truffle configuration!
 };
